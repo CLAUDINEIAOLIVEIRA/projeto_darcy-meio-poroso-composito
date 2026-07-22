@@ -2,7 +2,7 @@
 
 Implementação computacional em Python — comparação entre Método de Diferenças Finitas (MDF), Método de Elementos Finitos (MEF), Homogeneização Assintótica e Redes Neurais com Física Incorporada (PINNs) para o problema de escoamento de Darcy 1D em um meio poroso compósito periódico.
 
-Este repositório acompanha o artigo submetido à revista **TCAM** (UFF), na disciplina de Métodos Numéricos para Equações Diferenciais Parciais, sob orientação do **Prof. Reinaldo Rodríguez Ramos**.
+Este repositório acompanha o artigo  da disciplina de Métodos Numéricos para Equações Diferenciais Parciais, sob orientação do **Prof. Reinaldo Rodríguez Ramos**.
 
 **Autoras/Autores:** Claudineia Moreira de Oliveira, Paulo Cesar Madeira de Oliveira — Programa de Pós-Graduação em Modelagem Computacional (PPGCM/MCCT), UFF Campus Volta Redonda.
 

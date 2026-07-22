@@ -52,7 +52,7 @@ python projeto4_pinn.py                # gera Figuras 8–10 e 12 (treina 3 rede
 python projeto4_pinn_subdominios.py    # gera Figura 11 (treina 20 sub-redes; usa checkpoint)
 ```
 
-**Nota sobre `projeto4_pinn_subdominios.py`:** o treinamento é feito por checkpoint (`checkpoint_subdominios.pt`), em blocos de 2.000 épocas por execução. Rode o script várias vezes seguidas para acumular épocas de treinamento (o artigo usa um total de 30.000 épocas). Para recomeçar do zero, apague o arquivo `checkpoint_subdominios.pt`.
+**Nota sobre `projeto4_pinn_subdominios.py`:** o treinamento é feito por checkpoint (`checkpoint_subdominios.pt`), em blocos de 2.000 épocas por execução. Rode o script várias vezes seguidas para acumular épocas de treinamento . Para recomeçar do zero, apague o arquivo `checkpoint_subdominios.pt`.
 
 Nenhum script depende de GPU — todos rodam em CPU.
 
